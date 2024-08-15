@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Binisha</h1>
 <h3 align="center">I am an undergraduate CS student. My current focus lies in exploring Machine Learning techniques as well as learning Django. When I'm not coding, you can find me lost in the pages of fictional worlds.</h3>
 
-- 🔭 I’m currently working on **Django projects**
+- 🔭 I’m currently working on **Time Series projects**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Deep Learning**
 
 - 👯 I’m looking to collaborate on **Machine Learning**
 
