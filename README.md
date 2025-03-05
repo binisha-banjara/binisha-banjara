@@ -1,13 +1,13 @@
 
 
 <h1 align="center">Hi 👋, I'm Binisha</h1>
-<h3 align="center">I am an undergraduate CS student. My current focus lies in exploring Machine Learning and Data Engineering. When I'm not coding, you can find me lost in the pages of fictional worlds.</h3>
+<h3 align="center">I am an undergraduate CS student. My current focus lies in exploring Deep Learning and Data Engineering. When I'm not coding, you can find me lost in the pages of fictional worlds.</h3>
 
 - 🔭 I’m currently working on **OpenCV projects**
 
 - 🌱 I’m currently learning **Deep Learning**
 
-- 👯 I’m looking to collaborate on **Machine Learning and Data**
+- 👯 I’m looking to collaborate on **Machine Learning and NLP**
 
 - 📫 How to reach me **rubiks1200@gmail.com**
 
